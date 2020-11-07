@@ -8,5 +8,4 @@ its gonna be fun
 this are some changes
 welcome to 
 ## episode 3
-ok
-line 12 is added now
+Learn HTML and CSS 
